@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Ejaz</h1>
 <h3 align="center">Motivated To be a Machine learning Engineer.Passionate about building models that fix problems. Relevant skills include machine learning, problem solving, programming, and creative thinking</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasif-m&label=Profile%20views&color=0e75b6&style=flat" alt="HamzaEjaz-Github" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaEjaz-Github&label=Profile%20views&color=0e75b6&style=flat" alt="HamzaEjaz-Github" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HamzaEjaz-Github" alt="HamzaEjaz-Github" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
